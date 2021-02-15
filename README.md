@@ -28,7 +28,7 @@
 동영상링크 : https://www.youtube.com/watch?v=LDImSS_e2y4&t=513s 
 
 # 좀비런
-<img src="/Scipts/좀비런.png" width="300" height="170">
+<img src="/Scipts/좀비런.png" width="300" height="180">
 
 - 주요 기능 - 
 1. 2D 캐릭터 모션
