@@ -23,7 +23,7 @@
 2. 캐릭터 공격 패턴 
 3. 인게임 사운드 
 
-깃헙주소 : github.com/uwin123/Forager-Imitation
+깃헙주소 : https://github.com/uwin123/Forager-Imitation
 
 동영상링크 : https://www.youtube.com/watch?v=LDImSS_e2y4&t=513s 
 
