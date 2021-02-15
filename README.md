@@ -25,7 +25,7 @@
 
 깃헙주소 : github.comm/uwin123
 
-동영상링크 : 유튜브 주소 
+동영상링크 : https://www.youtube.com/watch?v=LDImSS_e2y4&t=513s 
 
 # 좀비런
 
