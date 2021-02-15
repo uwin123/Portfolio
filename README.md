@@ -9,7 +9,7 @@
 3. 시네머신 카메라
 4. 유니티 이벤트 시스템
 
-깃헙주소 : github.com/uwin123
+깃헙주소 : https://github.com/uwin123/Unity-Team-Project
 
 동영상링크 :  유튜브 주소
 
