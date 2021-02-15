@@ -33,7 +33,7 @@
 2. 장애물 및 아이템
 3. 스코어, Hp bar
 
-깃헙주소 : github.comm/uwin123
+깃헙주소 : github.com/uwin123/2D_WinApi
 
 # 킹 오브 슈터
 
@@ -42,6 +42,6 @@
 2. 카메라 맵 이동처리
 3. 에너미 공격패턴
 
-깃헙주소 : github.comm/uwin123
+깃헙주소 : github.com/uwin123/2D_WinApi
 ------------
 
