@@ -37,6 +37,7 @@
 깃헙주소 : github.com/uwin123/2D_WinApi
 
 # 킹 오브 슈터
+<img src="/Scipts/킹오브슈터.png" width="300" height="170">
 
 - 주요 기능
 1. 2D 캐릭터 모션(이동처리, 피격 이펙트)
